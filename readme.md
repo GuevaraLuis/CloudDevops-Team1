@@ -1,8 +1,10 @@
+# Cloud DevOps Team 1
 
 
+Alexis Antihual - Alexis.antihual@gmail.com - Ingeniero Plataformas- Curso Cloud Devops en Educación IT
 
-Alexis Antihual - Alexis.antihual@gmail.com - Ingeniero Plataformas- Cloud DevOps
+Federico Dusman - federicodusman155@hotmail.com - Oracle Specialist / SRE / Cloud - Curso Cloud Devops en Educación IT
 
-Federico Dusman - federicodusman155@hotmail.com - Oracle Specialist / SRE / Cloud - Cloud DevOps
+Agustin Landriel - al.landriel20@gmail.com - Sysadmin - Curso Cloud Devops en Educación IT
 
-Agustin Landriel - al.landriel20@gmail.com - Sysadmin - Cloud Devops
+Luis Guevara - lggg094@gmail.com - https://www.linkedin.com/in/luis-guevara-guevara/ - Analista de sistemas - Curso Cloud Devops en Educación IT
