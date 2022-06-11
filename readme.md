@@ -1,6 +1,7 @@
 # Cloud DevOps Team 1
 
-## Miembros:
+Miembros:
+
 Alexis Antihual - Alexis.antihual@gmail.com - Ingeniero Plataformas- Curso Cloud Devops en Educación IT
 
 Federico Dusman - federicodusman155@hotmail.com - Oracle Specialist / SRE / Cloud - Curso Cloud Devops en Educación IT
